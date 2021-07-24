@@ -1,0 +1,3 @@
+﻿  bank2.cpp
+c:\users\june\desktop\c++总\面向对象学习\bank\bank\bank2.cpp(60): warning C4715: “Bank::show”: 不是所有的控件路径都返回值
+  bank.vcxproj -> C:\Users\June\Desktop\C++总\面向对象学习\bank\Debug\bank.exe
